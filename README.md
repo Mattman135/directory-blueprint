@@ -1,38 +1,12 @@
-# ShipFast — Typescript
+# Directory blueprint
 
-Hey maker 👋 it's Marc from [ShipFast](https://shipfa.st/docs). Let's get your startup off the ground, FAST ⚡️
+## Instruktioner
 
-<sub>**Watch/Star the repo to be notified when updates are pushed**</sub>
-
-## Get Started
-
-1. Follow the [Get Started Tutorial](https://shipfa.st/docs) to clone the repo and run your local server 💻
-
-<sub>**Looking for the /pages router version?** Use this [documentation](https://shipfa.st/docs-old) instead</sub>
-
-2. Follow the [Ship In 5 Minutes Tutorial](https://shipfa.st/docs/tutorials/ship-in-5-minutes) to learn the foundation and ship your app quickly ⚡️
-
-## Links
-
--   [📚 Documentation](https://shipfa.st/docs)
--   [📣 Updates](https://shipfast.beehiiv.com/)
--   [🧑‍💻 Discord](https://shipfa.st/dashboard)
--   [🥇 Leaderboard](https://shipfa.st/leaderboard)
-
-## Support
-
-Reach out at hello@shipfa.st
-
-Let's ship it, FAST ⚡️
-
-\_
-
-**📈 Grow your startup with [DataFast](https://datafa.st?ref=shipfast_readme)**
-
--   Analyze your traffic
--   Get insights on your customers
--   Make data-driven decisions
-
-ShipFast members get 30% OFF on all plans! 🎁
-
-![datafast](https://github.com/user-attachments/assets/2a9710f8-9a39-4593-b4bf-9ee933529870)
+- skapa en supabase databas
+- skriv om data_table_name i Hero.tsx
+- ändra header och footer och anpassa till det jag har
+- vercel vulnerable version
+- ändra icons
+- ta bort blogg om jag inte ska ha det
+- ta bort pricing om jag inte ska ha det
+- ta bort inlogg om jag inte ska ha det
