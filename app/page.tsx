@@ -1,6 +1,6 @@
 import { Suspense } from "react"
 import Header from "@/components/Header"
-import Hero from "@/components/MyComponents/Hero"
+import Hero from "@/components/MyComponents/HeroJSON"
 import Footer from "@/components/Footer"
 
 export default function Home() {
