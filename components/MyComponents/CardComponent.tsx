@@ -157,7 +157,7 @@ const CardComponent = ({ item }: CardComponentProps) => {
           {/* Button aligned to the right */}
           <div className="card-actions justify-end mt-4">
             <Link
-              href={`/pages/b/${encodeURIComponent(detailKey)}`}
+              href={`/pagesjson/b/${encodeURIComponent(detailKey)}`}
               className="btn btn-sm btn-primary rounded-full"
             >
               Visa
